@@ -13,11 +13,17 @@ evitar confusão com os construtores de classe.
 # Prós e contras
 
 # Prós
-Você pode construir objetos passo a passo, adiar as etapas de construção ou rodar etapas recursivamente.
-    
-Você pode reutilizar o mesmo código de construção quando construindo várias representações de produtos.
-    
-Princípio de responsabilidade única. Você pode isolar um código de construção complexo da lógica de negócio do produto.
+- Você pode construir objetos passo a passo, adiar as etapas de construção ou rodar etapas recursivamente.
+
+- Você pode reutilizar o mesmo código de construção quando construindo várias representações de produtos.
+
+- Princípio de responsabilidade única. Você pode isolar um código de construção complexo da lógica de negócio do produto.
 
 # Contras
-A complexidade geral do código aumenta uma vez que o padrão exige criar múltiplas classes novas.
+- A complexidade geral do código aumenta uma vez que o padrão exige criar múltiplas classes novas.
+
+
+# Aplicabilidade
+
+Use o padrão Builder quando você quer que seu código seja capaz de criar diferentes representações do mesmo
+produto (por exemplo, casas de pedra e madeira).

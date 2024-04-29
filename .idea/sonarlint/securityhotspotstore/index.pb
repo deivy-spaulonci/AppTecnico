@@ -51,3 +51,11 @@ isrc/main/java/com/br/apptecnico/deignpattners/criacionais/abstractFactory/exemp
 _src/main/java/com/br/apptecnico/deignpattners/criacionais/abstractFactory/exemplo1/GuiMain.java,1/0/10acb79ca9f659623721e9aca0ef12ea8daafe75
 ‹
 [src/main/java/com/br/apptecnico/deignpattners/criacionais/abstractFactory/exemplo1/App.java,5/9/59ac11d869d8933ee536323fee3f6e6050897246
+€
+Psrc/main/java/com/br/apptecnico/deignpattners/criacionais/prototype/DocPrototype,a/6/a62dac3218a7e18a25c65a07ea718086c42ea49a
+ƒ
+Ssrc/main/java/com/br/apptecnico/deignpattners/criacionais/prototype/DocPrototype.md,8/8/88931730534a53bc10f13912d646b8641002f32b
+‚
+Rsrc/main/java/com/br/apptecnico/deignpattners/criacionais/prototype/Prototype.java,4/3/433e277af44fe01e3ac0fd8be22e16e6859e8b4e
+ƒ
+Ssrc/main/java/com/br/apptecnico/deignpattners/criacionais/singleton/DocSingleton.md,0/5/0580c943ca56af3ce801d97322c4a85774990c3e
